@@ -1,0 +1,8 @@
+BIRTHDAY SURPRISE WEBSITE — REAL PHOTOS INCLUDED
+
+The opening birthday page uses photos/birthday-cover.jpg.
+The Memories page displays all 24 real photos supplied in the photo ZIP as photos/memory-01.jpg through photos/memory-24.jpg.
+
+There is no upload button or in-page photo editing option. All photos are stored in this website's photos folder and included in this ZIP, so they remain available whenever the website is opened with its files kept together.
+
+The cover uses the first supplied photo; that same photo also appears as Memory 01.
